@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Kay4wise
-- 👀 I’m interested in frontend development stacks
-- 🌱 I’m currently learning JavaScript, Python
-- 💞️ I’m looking to collaborate on frontend project, building of new things.
+- 👀 I’m interested in frontend programming
+- 🌱 I’m currently learning JavaScript, ReactJS, Python.
+- 💞️ I’m looking to collaborate on frontend project, build wonderful project
 - 📫 How to reach me kateobum2014@gmail.com, wisekate2014@gmail.com
-- 😄 Pronouns: She, He.
-- ⚡ Fun fact: I love it big, when it's making sense. 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love it big....bring it on!!
 
 <!---
 Kay4wise/Kay4wise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
